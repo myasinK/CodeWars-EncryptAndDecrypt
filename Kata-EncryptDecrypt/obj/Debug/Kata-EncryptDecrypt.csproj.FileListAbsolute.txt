@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\Kata-EncryptDecrypt\Kata-EncryptDecrypt\bin\Debug\Kata-EncryptDecrypt.exe.config
+C:\Users\Yasin\source\repos\Kata-EncryptDecrypt\Kata-EncryptDecrypt\bin\Debug\Kata-EncryptDecrypt.exe
+C:\Users\Yasin\source\repos\Kata-EncryptDecrypt\Kata-EncryptDecrypt\bin\Debug\Kata-EncryptDecrypt.pdb
+C:\Users\Yasin\source\repos\Kata-EncryptDecrypt\Kata-EncryptDecrypt\obj\Debug\Kata-EncryptDecrypt.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\Kata-EncryptDecrypt\Kata-EncryptDecrypt\obj\Debug\Kata-EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\Kata-EncryptDecrypt\Kata-EncryptDecrypt\obj\Debug\Kata-EncryptDecrypt.exe
+C:\Users\Yasin\source\repos\Kata-EncryptDecrypt\Kata-EncryptDecrypt\obj\Debug\Kata-EncryptDecrypt.pdb
